@@ -21,7 +21,7 @@
 
 &lt;p&gt;Each new paragraph in the md file represents a new line.&lt;/p&gt;
 
-&lt;p&gt;Remember to set type=&amp;ldquo;about&amp;rdquo; in the hugo header.&lt;/p&gt;
+&lt;p&gt;Remember to set type=&amp;ldquo;about&amp;rdquo; in the hugo header within this markdown file.&lt;/p&gt;
 </description>
     </item>
     
@@ -45,7 +45,9 @@
 
 &lt;p&gt;This philosophy also extends to the code, the markup should be clear and easy to understand (although the indentation can look a little weird sometimes - this is just an unfortunate artefact of some static site generators), and the CSS should be fairly lean. You could say I was inspired by this &lt;a href=&#34;http://bettermotherfuckingwebsite.com/&#34;&gt;masterpiece&lt;/a&gt;, although I didn’t quite manage seven declarations. As I’ve said, I’m not much of a front end guy. I want to become better at it, this is why I have experimented with the CSS a little more than maybe I should have. If you do happen to be a designer and you are checking out my theme / code / CSS, do feel free to &lt;a href=&#34;mailto:dilworth.jonathon@gmail.com&#34;&gt;drop me some constructive criticism&lt;/a&gt;, I would appreciate it.&lt;/p&gt;
 
-&lt;p&gt;Please note that some of the base CSS has been lifted from (here)[&lt;a href=&#34;http://hbpasti.github.io/heather-hugo/&#34;&gt;http://hbpasti.github.io/heather-hugo/&lt;/a&gt;]. I have credited the author in the code and have provided a reference on &lt;a href=&#34;https://github.com/jonathondilworth/sofya&#34;&gt;this projects GitHub page&lt;/a&gt;. Credit where credit is due.&lt;/p&gt;
+&lt;p&gt;Please note that some of the base CSS has been lifted from &lt;a href=&#34;http://hbpasti.github.io/heather-hugo/&#34;&gt;here&lt;/a&gt;. I have credited the author in the code and have provided a reference on &lt;a href=&#34;https://github.com/jonathondilworth/sofya&#34;&gt;this projects GitHub page&lt;/a&gt;. Credit where credit is due.&lt;/p&gt;
+
+&lt;p&gt;You can download the theme for free &lt;a href=&#34;https://github.com/jonathondilworth/sofya&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

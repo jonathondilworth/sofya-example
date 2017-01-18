@@ -21,7 +21,7 @@
 
 &lt;p&gt;Each new paragraph in the md file represents a new line.&lt;/p&gt;
 
-&lt;p&gt;Remember to set type=&amp;ldquo;about&amp;rdquo; in the hugo header.&lt;/p&gt;
+&lt;p&gt;Remember to set type=&amp;ldquo;about&amp;rdquo; in the hugo header within this markdown file.&lt;/p&gt;
 </description>
     </item>
     
