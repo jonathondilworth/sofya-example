@@ -1,0 +1,32 @@
+@media (min-width: 220px) {
+
+  .site-header {
+    margin: 0 auto;
+  }
+
+  .site-header,
+  .site-header ul {
+    display: flex;
+  }
+
+  .site-header {
+    flex-direction: column;
+    align-items: center;
+  }
+
+}
+
+@media (min-width: 660px) {
+
+  .site-header {
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 32px;
+  }
+
+  .description {
+    flex-direction: column;
+    text-align: left;
+  }
+
+}
