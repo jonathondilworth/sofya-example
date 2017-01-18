@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/</loc>
+    <loc>https://jonathondilworth.github.io/sofya-example/</loc>
     <lastmod>2017-01-17T23:31:05+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://jonathondilworth.github.io/sofya-example/about/</loc>
     <lastmod>2017-01-17T23:31:05+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/sofya/</loc>
+    <loc>https://jonathondilworth.github.io/sofya-example/post/sofya/</loc>
     <lastmod>2017-01-17T22:41:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/helloworld/</loc>
+    <loc>https://jonathondilworth.github.io/sofya-example/post/helloworld/</loc>
     <lastmod>2016-11-20T21:30:16+00:00</lastmod>
   </url>
   

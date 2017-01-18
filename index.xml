@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Blog</title>
-    <link>/index.xml</link>
+    <link>https://jonathondilworth.github.io/sofya-example/index.xml</link>
     <description>Recent content on My Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Jan 2017 23:31:05 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jonathondilworth.github.io/sofya-example/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>index</title>
-      <link>/about/</link>
+      <link>https://jonathondilworth.github.io/sofya-example/about/</link>
       <pubDate>Tue, 17 Jan 2017 23:31:05 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://jonathondilworth.github.io/sofya-example/about/</guid>
       <description>&lt;p&gt;Hey there. This is an about page. It uses the about layout.&lt;/p&gt;
 
 &lt;p&gt;Generate this page using &amp;lsquo;hugo new about/index.md&amp;rsquo;.&lt;/p&gt;
@@ -27,10 +27,10 @@
     
     <item>
       <title>Sofya: a Blogging Theme for Hugo</title>
-      <link>/post/sofya/</link>
+      <link>https://jonathondilworth.github.io/sofya-example/post/sofya/</link>
       <pubDate>Tue, 17 Jan 2017 22:41:49 +0000</pubDate>
       
-      <guid>/post/sofya/</guid>
+      <guid>https://jonathondilworth.github.io/sofya-example/post/sofya/</guid>
       <description>
 
 &lt;p&gt;The name Sofya is the Russian form of the Greek Sophia, meaning wisdom. It seemed like an apt name for a blogging theme.&lt;/p&gt;
@@ -51,10 +51,10 @@
     
     <item>
       <title>Hello World</title>
-      <link>/post/helloworld/</link>
+      <link>https://jonathondilworth.github.io/sofya-example/post/helloworld/</link>
       <pubDate>Sun, 20 Nov 2016 21:30:16 +0000</pubDate>
       
-      <guid>/post/helloworld/</guid>
+      <guid>https://jonathondilworth.github.io/sofya-example/post/helloworld/</guid>
       <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 
 &lt;p&gt;It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &amp;lsquo;Content here, content here&amp;rsquo;, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for &amp;lsquo;lorem ipsum&amp;rsquo; will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).&lt;/p&gt;
